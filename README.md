@@ -14,5 +14,7 @@ Tomcat.
 </p>
 <hr>
 
+<p>Install: <br> mvn clean install -U</p>
+
 
 
